@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import scipy as sp
 
-# if you forget likelihood, LOOD at slides ! :P
+# if you forget likelihood, LOOk at slides! 
 # never write log, be specific log10 or ln
 # LLH: log likelihood
 # negative LLH finds minima

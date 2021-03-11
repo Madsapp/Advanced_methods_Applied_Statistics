@@ -10,6 +10,7 @@ import pandas as pd
 from tqdm import tqdm
 
 # SGD only uses subsets of the data rather than evaluating the entire data set as the GD does
+# SGD is much faster
 
 class Net(nn.Module):
     def __init__(self):

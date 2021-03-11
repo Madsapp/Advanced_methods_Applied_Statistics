@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import timeit
-# Use simple methods as long as they work, whne they dont work anymore, then
+# Use simple methods as long as they work, when they dont work anymore, then
 # its time to be clever # Use the hammer as long as it works
 # monte carlo algorithm for approximation of pi
 
